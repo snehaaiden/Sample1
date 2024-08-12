@@ -24,7 +24,7 @@
  				<configuration> 
  					<archive> 
  						<manifest> 
- 							<mainClass>jenkins3.Sample</mainClass> 
+ 							<mainClass>jenkins3package.Sample</mainClass> 
  						</manifest> 
  					</archive> 
  				</configuration> 
@@ -32,3 +32,4 @@
  		</plugins> 
  	</build> 
  </project>
+ 
